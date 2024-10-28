@@ -1,27 +1,46 @@
-# AppAngular
+### <h2>CRUD USUARIOS/TAREFAS
+Este projeto tem como objetivo possibilitar o cadastro e a exclusão de usuários e tarefas.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11.
+</br>
+###<h2>FLUXO </h2>
+O usuário será direcionado para a tela inicial do sistema, onde poderá escolher entre cadastrar um novo usuário, registrar uma tarefa ou visualizar todos os cadastros existentes de usuários e suas respectivas tarefas.
+  
+<img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 
-## Development server
+</br>
+###<h2>EXECUÇÃO </h2>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)
 
-## Code scaffolding
+Aqui está uma versão aprimorada do texto:</br></br>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. Clone o repositório </br></br>
+2. Na raiz do projeto, execute o comando `npm install` para instalar as dependências.</br></br>
+3. Inicie a API [API_Tarefas_CapGemini](https://github.com/felipe-Santana1/API_Tarefas_CapGemini.git).</br></br>
+4. Execute o projeto com `ng serve`.</br>
+  
+</br>
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+###<h2>TECNOLOGIAS</h2>
 
-## Running unit tests
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![Angular](https://img.shields.io/badge/-Angular-000000?style=for-the-badge&amp;logo=angular)
+![Node.JS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&amp;logo=Node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=Bootstrap)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### <h5> [Versionamento do projeto] </h5>
+![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
+</br></br></br></br>
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<p align="center">
+  <i>🤝🏻 Vamos nos conectar!</i>
 
-## Further help
+  <p align="center">
+    <a href="https://www.linkedin.com/in/felipe-santana-5059a0191/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+  </p>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
