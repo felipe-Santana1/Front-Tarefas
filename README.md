@@ -16,8 +16,6 @@ O usuário será direcionado para a tela inicial do sistema, onde poderá escolh
 
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)
 
-Aqui está uma versão aprimorada do texto:</br></br>
-
 1. Clone o repositório </br></br>
 2. Na raiz do projeto, execute o comando `npm install` para instalar as dependências.</br></br>
 3. Inicie a API [API_Tarefas_CapGemini](https://github.com/felipe-Santana1/API_Tarefas_CapGemini.git).</br></br>
