@@ -1,5 +1,9 @@
 ### <h2>CRUD USUARIOS/TAREFAS
-Este projeto tem como objetivo possibilitar o cadastro e a exclusão de usuários e tarefas.
+Este projeto tem como objetivo possibilitar o cadastro e acompanhamento de usuários e tarefas.
+
+![Youtube](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=Youtube)</br> 
+<p>Vídeo demonstrativo destacando as funcionalidades e a usabilidade do sistema. </p>
+https://youtu.be/_eD2iNoArtw </br>
 
 </br>
 ###<h2>FLUXO </h2>
