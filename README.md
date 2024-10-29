@@ -19,6 +19,7 @@ O usuário será direcionado para a tela inicial do sistema, onde poderá escolh
 1. Clone o repositório </br></br>
 2. Na raiz do projeto, execute o comando `npm install` para instalar as dependências.</br></br>
 3. Inicie a API [API_Tarefas_CapGemini](https://github.com/felipe-Santana1/API_Tarefas_CapGemini.git).</br></br>
+4. No arquivo `tarefa.service` & `usuario.service`, mude a rota da API para seu cenario.</br></br>
 4. Execute o projeto com `ng serve`.</br>
   
 </br>
